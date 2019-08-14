@@ -1,0 +1,335 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,ID,IRI_4,IRI_5,IRI_6,IRI_7,IRI_8,IRI_9,IRI_32,IRI_10,IRI_11,IRI_3,IRI_12,IRI_13,IRI_14,IRI_15,IRI_16,IRI_18,IRI_19,IRI_20,IRI_21,IRI_22,IRI_23,IRI_24,IRI_25,IRI_27,IRI_28,IRI_29,IRI_30,IRI_31,BES_21,BES_20,BES_22,BES_23,BES_24,BES_25,BES_26,BES_27,BES_28,BES_29,BES_30,BES_31,BES_32,BES_33,BES_34,BES_35,BES_36,BES_37,BES_38,BES_39,ASRM_1,ASRM_2,ASRM_3,ASRM_4,ASRM_5,BDISF_1,BDISF_21,BDISF_3,BDISF_4,BDISF_5,BDISF_6,BDISF_7,BDISF_8,BDISF_9,BDISF_10,BDISF_11,BDISF_12,BDISF_13,STAI_1,STAI_2,STAI_3,STAI_4,STAI_5,STAI_6,Q83_1,Q83_2,Q83_3,Q83_4,Q83_5,Q83_6,Q83_7,Q83_8,Q83_9,Q83_10,Q83_11,Q83_12,Q84,Q85,Q86,SAS_intro1,SAS_intro2,SAS_intro3,SAS1,SAS2,SAS3,SAS4,SAS5,SAS6,SAS7,SAS8,SAS9,SAS10,SAS11,SAS12,Q33,Q34,Q35,Q36,Q37,Q38,Q39,Q40,Q41,Q42,Q43,Q44,Q45,Q46,Q47,Q48,Q49,Q50,Q51,Q52,Q53,Q54,Q55,Q56,Q57,Q58,Q59,Q60,Q61,Q62,Q63,Q64,Q65,Q66,Q67,Q68,Q69,Q70,Q71,Q72,Q73,Q74,Q75,Q76,Q77,Q78,Q79,Q80,Meds1,Meds2,Where_Live,Age,Ethnicity,Ethnicity_6_TEXT,Gender,Education,Income,Employment,Living_Arr,Living_Arr_6_TEXT,Marital_St,Children,SES
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,ID #,"IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 1. I daydream and fantasize, with some regularity, about things that might happen to me.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 2. I often have tender, concerned feelings for people less fortunate than me.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 3. I sometimes find it difficult to see things from the ""other guy's"" point of view.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 4. Sometimes I don't feel very sorry for other people when they are having problems.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 5. I really get involved with the feelings of the characters in a novel.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 6. In emergency situations, I feel apprehensive and ill-at-ease.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 7. I am usually objective when I watch a movie or play, and I don't often get completely caught up in it.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 8. I try to look at everybody's side of a disagreement before I make a decision.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 9. When I see someone being taken advantage of, I feel kind of protective towards them.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 10. I sometimes feel helpless when I am in the middle of a very emotional situation.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 11. I sometimes try to understand my friends better by imagining how things look from their perspective.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 12. Becoming extremely involved in a good book or movie is somewhat rare for me.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 13. When I see someone get hurt, I tend to remain calm.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 14. Other people's misfortunes do not usually disturb me a great deal.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 15. If I'm sure I'm right about something, I don't waste much time listening to other people's arguments.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 16. After seeing a play or movie, I have felt as though I were one of the characters.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 17. Being in a tense emotional situation scares me.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 18. When I see someone being treated unfairly, I sometimes don't feel very much pity for them.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 19. I am usually pretty effective in dealing with emergencies.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 20. I am often quite touched by things that I see happen.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 21. I believe that there are two sides to every question and try to look at them both.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 22. I would describe myself as a pretty soft-hearted person.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 23. When I watch a good movie, I can very easily put myself in the place of a leading character.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 24. I tend to lose control during emergencies.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 25. When I'm upset at someone, I usually try to ""put myself in his shoes"" for a while.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 26. When I am reading an interesting story or novel, I imagine how I would feel if the events in the story were happening to me.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 27. When I see someone who badly needs help in an emergency, I go to pieces.","IRI
+
+ 
+
+The following statements inquire about your thoughts and feelings in a variety of situations.  For each item, indicate how well it describes you by choosing the appropriate letter on the scale at the top of the page:  A, B, C, D, or E.  When you have decided on your answer, select the letter next to the item number.  READ EACH ITEM CAREFULLY BEFORE RESPONDING.  Answer as honestly as you can.  Thank you. - 28. Before criticizing somebody, I try to imagine how I would feel if I were in their place.","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 1. My friends’ emotions don’t affect me much","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 2. After being with a friend who is sad about something, I usually feel sad","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 3. I can understand my friend’s happiness when they do well at something","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 4. I get frightened when I watch characters in a good scary movie","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 5. I get caught up in other people’s feelings easily","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 6. I find it hard to know when my friends are frightened","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 7. I don’t become sad when I see other people crying","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 8. Other people’s feeling don’t bother me at all","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 9. When someone is feeling ‘down’ I can usually understand how they feel","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 10. I can usually work out when my friends are scared","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 11. I often become sad when watching sad things on TV or in films","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 12. I can often understand how people are feeling even before they tell me","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 13. Seeing a person who has been angered has no effect on my feelings","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 14. I can usually work out when people are cheerful","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 15. I tend to feel scared when I am with friends who are afraid","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 16. I can usually realize quickly when a friend is angry","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 17. I often get swept up in my friends’ feelings","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 18. My friend’s unhappiness doesn’t make me feel anything","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 19. I am not usually aware of my friends’ feelings","BES
+
+ 
+Rate each statement on a 5-point scale with 1=strongly agree and 5=strongly
+
+disagree. - 20. I have trouble figuring out when my friends are happy",ASRM(1),ASRM(2),ASRM(3),ASRM(4),ASRM(5),BDI-SF(1),BDF-SF(2),BDF-SF(3),BDF-SF(4),BDF-SF(5),BDF-SF(6),BDF-SF(7),BDF-SF(8),BDF-SF(9),BDF-SF(10),BDF-SF(11),BDF-SF(12),BDF-SF(13),"STAI-6
+
+ 
+
+A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - I feel calm","STAI-6
+
+ 
+
+A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - I am tense","STAI-6
+
+ 
+
+A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - I feel upset","STAI-6
+
+ 
+
+A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - I am relaxed","STAI-6
+
+ 
+
+A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - I feel content","STAI-6
+
+ 
+
+A number of statements which people used to describe themselves are given below. Read each statement and then mark the most appropriate answer to indicate how you feel right now, at this moment.  There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best. - I am worried","In the past 30 days, how much difficulty did you have in: - 1. Standing for long periods such as 30 minutes?","In the past 30 days, how much difficulty did you have in: - 2. Taking care of your household responsibilities?","In the past 30 days, how much difficulty did you have in: - 3. Learning a new task, for example, learning how to get to a new place?","In the past 30 days, how much difficulty did you have in: - 4. How much of a problem did you have joining in community activities (for example, festivities, religious, or other activities) in the same way as anyone else can?","In the past 30 days, how much difficulty did you have in: - 5. How much have you been emotionally affected by your health problems?","In the past 30 days, how much difficulty did you have in: - 6. Concentrating on doing something for ten minutes?","In the past 30 days, how much difficulty did you have in: - 7. Walking a long distance such as a kilometer [or equivalent]?","In the past 30 days, how much difficulty did you have in: - 8. Washing your whole body?","In the past 30 days, how much difficulty did you have in: - 9. Getting dressed?","In the past 30 days, how much difficulty did you have in: - 10. Dealing with people you do not know?","In the past 30 days, how much difficulty did you have in: - 11. Maintaining a friendship?","In the past 30 days, how much difficulty did you have in: - 12. Your day-to-day work?","13. Overall, in the past 30 days, how many days were these difficulties present?","14. In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?","15. In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?","WORK OUTSIDE THE HOME
+
+ 
+
+ I am:",Do you usually work for pay more than 15 hours per week?,Did you work for pay in the last 2 weeks?,1. How many days did you miss from work in the last 2 weeks?,"If you have not worked any days in the past 2 weeks, go on to Question 7
+2. Have you been able to do any work in the last 2 weeks?",3.  Have you been ashamed of how you do your work in the past two weeks?,4. Have you had any arguments with people at work in the last 2 weeks?,"5.  Have you felt upset, worried or uncomfortable while doing your work in the past 2 weeks?",6.  Have you found your work interesting these last 2 weeks?,"WORK INSIDE THE HOME – HOUSEWIVES ANSWER QUESTIONS 7-12.  OTHERWISE, GO ON TO QUESTION 13
+7.  How many days did you do some housework during the last 2 weeks?","8.  During the last 2 weeks, have you kept up with your housework?  This includes cooking, cleaning, laundry, grocery shopping, and errands.",9.  Have you been ashamed of how you did your housework during the last 2 weeks?,"10.  Have you had any arguments with salespeople, tradesmen, or neighbors in the past 2 weeks?",11.  Have you felt upset while doing your housework during the last 2 weeks?,12.  Have you found your housework interesting these last 2 weeks?,"FOR STUDENTS
+Answer Questions 13-18 if you go to school half time or more.  Otherwise go to Question 19.
+What best describes your school program?",13.  How many days of classes did you miss in the last 2 weeks?,14.  Have you kept up with your class work in the last 2 weeks?,"15.  During the last 2 weeks, have you been ashamed of how you do your schoolwork?",16. Have you had any arguments with people at school in the last 2 weeks?,17.  Have you felt upset at school during the last 2 weeks?,18.  Have you found your school work interesting these last 2 weeks?,"SPARE TIME – EVERYONE ANSWER QUESTIONS 19-27
+Check the answer that best describes the way you have been in the last 2 weeks.
+19.  How many friends have you seen or spoken to on the telephone in the last 2 weeks?",20.  Have you been able to talk about your feelings and problems with at least one friend during the last 2 weeks?,"21.  How many times in the last 2 weeks have you gone out socially with other people?  For example, visited friends, gone to movies, bowling, church, restaurants, invited friends to your home?","22.  How much time have you spent on hobbies or spare time interests during the last two weeks?  For example, bowling, sewing, gardening, sports, reading?",23.  Have you had open arguments with your friends in the past 2 weeks?,"24.  If your feelings were hurt or offended by a friend during the last 2 weeks, how badly did you take it?",25.  Have you felt shy or uncomfortable with people in the last 2 weeks?,26.  Have you felt lonely and wished for more friends during the last 2 weeks?,27.  Have you felt bored in your spare time during the last 2 weeks?,"Are you single, separated or divorced?",28.  How many times have you been on a date these last 2 weeks?,"29.  Have you been interested in dating during the last 2 weeks?  If you have not dated, would you have liked to?","FAMILY 
+Answer Questions 30-37 about your parents, brothers, sisters, in-laws, and children not living at home.  Have you been in contact with any of them in the last 2 weeks?",30.  Have you had open arguments with your relatives in the past 2 weeks?,31.  Have you been able to talk about your feelings and problems with at least one relative during the last 2 weeks?,32.  Have you avoided contacts with your relatives during these last 2 weeks?,"33.  Did you depend on your relatives for help, advice, money, or friendship during the last 2 weeks?",34.  Have you wanted to do the opposite of what your relatives wanted in order to make them angry during the last 2 weeks?,35.  Have you been worried about things happening to your relatives without good reason in the last 2 weeks?,"EVERYONE answer questions 36 and 37, even if your relatives are not living.
+36.  During the last 2 weeks, have you been thinking that you have let any of your relatives down or have been unfair to them at any time?","37.  During the last 2 weeks, have you been thinking that any of your relatives have let you down or have been unfair to you at any time?",Are you living with your spouse or have you been living with a boyfriend/girlfriend in a permanent relationship?,38.  Have you had open arguments with your partner in the past 2 weeks?,"39.  Have you been able to talk about your feelings and problems with your partner 
+during the past 2 weeks?",40.  Have you been demanding to have your own way with your partner during the last 2 weeks?,41.  Have you been bossed around by your partner these last 2 weeks?,42.  How much have you felt dependent on your partner these last 2 weeks?,43.  How have you felt about your partner during the last 2 weeks?,44.  How many times have you and your partner had intercourse?,"45.  Have you had any problems during intercourse, such as pain, these last 2 weeks?",46.  How have you felt about intercourse during the last 2 weeks?,"CHILDREN
+Have you had unmarried children, stepchildren, or foster children living at home during the last 2 weeks?","47.  Have you been interested in what your children are doing – school, play, or hobbies, during the last 2 weeks?",48.  Have you been able to talk and listen to your children during the last 2 weeks?  Include only children over the age of 2.,49.  How have you been getting along with the children during the last 2 weeks?,50.  How have you felt towards your children these last 2 weeks?,"FAMILY UNIT
+Have you ever been married, ever lived with a significant other, or ever had children?","51.  Have you worried about your partner or any of you children without reason during the last 2 weeks, even if you are not living together now?","52.  During the last 2 weeks, have you been thinking that you have let down your partner or any of your children at any time?","53.  During the last 2 weeks, have you been thinking that your partner or any of your children have let you down at any time?","FINANCIAL-EVERYONE ANSWER QUESTION 54
+54.  Have you had enough money to take care of your own and your family’s financial needs during the last 2 weeks?",Medication History_1,Medication History_2,"Where do you live?
+
+ 
+
+Sometimes people do not read questions, so regardless of where you live, please write down Venus. This is just to check that you are paying attention. Thank you.",Age,ETHNICITY - Selected Choice,ETHNICITY - Other (please specify) - Text,GENDER,YEARS OF EDUCATION,Annual Household Income:,Employment Status,Living Arrangement - Selected Choice,Living Arrangement - Other (please specify) - Text,Marital Status:,Number of Children:,"Think of this 10 rung ladder as representing where people stand IN THE UNITED STATES. At the top of the ladder are the people who are the best off--those who have the most money, the most education, and the most respected jobs. At the bottom are the people who are the worst off--who have the least money, least education, and the least respected jobs or no job. Between 1 (bottom) and 10 (top), where do you think you stand on the ladder IN GENERAL?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID3_TEXT""}","{""ImportId"":""QID347_4""}","{""ImportId"":""QID347_5""}","{""ImportId"":""QID347_6""}","{""ImportId"":""QID347_7""}","{""ImportId"":""QID347_8""}","{""ImportId"":""QID347_9""}","{""ImportId"":""QID347_32""}","{""ImportId"":""QID347_10""}","{""ImportId"":""QID347_11""}","{""ImportId"":""QID347_3""}","{""ImportId"":""QID347_12""}","{""ImportId"":""QID347_13""}","{""ImportId"":""QID347_14""}","{""ImportId"":""QID347_15""}","{""ImportId"":""QID347_16""}","{""ImportId"":""QID347_18""}","{""ImportId"":""QID347_19""}","{""ImportId"":""QID347_20""}","{""ImportId"":""QID347_21""}","{""ImportId"":""QID347_22""}","{""ImportId"":""QID347_23""}","{""ImportId"":""QID347_24""}","{""ImportId"":""QID347_25""}","{""ImportId"":""QID347_27""}","{""ImportId"":""QID347_28""}","{""ImportId"":""QID347_29""}","{""ImportId"":""QID347_30""}","{""ImportId"":""QID347_31""}","{""ImportId"":""QID348_21""}","{""ImportId"":""QID348_20""}","{""ImportId"":""QID348_22""}","{""ImportId"":""QID348_23""}","{""ImportId"":""QID348_24""}","{""ImportId"":""QID348_25""}","{""ImportId"":""QID348_26""}","{""ImportId"":""QID348_27""}","{""ImportId"":""QID348_28""}","{""ImportId"":""QID348_29""}","{""ImportId"":""QID348_30""}","{""ImportId"":""QID348_31""}","{""ImportId"":""QID348_32""}","{""ImportId"":""QID348_33""}","{""ImportId"":""QID348_34""}","{""ImportId"":""QID348_35""}","{""ImportId"":""QID348_36""}","{""ImportId"":""QID348_37""}","{""ImportId"":""QID348_38""}","{""ImportId"":""QID348_39""}","{""ImportId"":""QID90""}","{""ImportId"":""QID91""}","{""ImportId"":""QID92""}","{""ImportId"":""QID93""}","{""ImportId"":""QID94""}","{""ImportId"":""QID96""}","{""ImportId"":""QID97""}","{""ImportId"":""QID98""}","{""ImportId"":""QID99""}","{""ImportId"":""QID100""}","{""ImportId"":""QID101""}","{""ImportId"":""QID102""}","{""ImportId"":""QID103""}","{""ImportId"":""QID104""}","{""ImportId"":""QID105""}","{""ImportId"":""QID106""}","{""ImportId"":""QID107""}","{""ImportId"":""QID108""}","{""ImportId"":""QID300_1""}","{""ImportId"":""QID300_2""}","{""ImportId"":""QID300_3""}","{""ImportId"":""QID300_4""}","{""ImportId"":""QID300_5""}","{""ImportId"":""QID300_6""}","{""ImportId"":""QID83_1""}","{""ImportId"":""QID83_2""}","{""ImportId"":""QID83_3""}","{""ImportId"":""QID83_4""}","{""ImportId"":""QID83_5""}","{""ImportId"":""QID83_6""}","{""ImportId"":""QID83_7""}","{""ImportId"":""QID83_8""}","{""ImportId"":""QID83_9""}","{""ImportId"":""QID83_10""}","{""ImportId"":""QID83_11""}","{""ImportId"":""QID83_12""}","{""ImportId"":""QID84_TEXT""}","{""ImportId"":""QID85_TEXT""}","{""ImportId"":""QID86_TEXT""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID27""}","{""ImportId"":""QID28""}","{""ImportId"":""QID29""}","{""ImportId"":""QID30""}","{""ImportId"":""QID31""}","{""ImportId"":""QID32""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62""}","{""ImportId"":""QID63""}","{""ImportId"":""QID64""}","{""ImportId"":""QID65""}","{""ImportId"":""QID66""}","{""ImportId"":""QID67""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69""}","{""ImportId"":""QID70""}","{""ImportId"":""QID71""}","{""ImportId"":""QID72""}","{""ImportId"":""QID73""}","{""ImportId"":""QID74""}","{""ImportId"":""QID75""}","{""ImportId"":""QID76""}","{""ImportId"":""QID77""}","{""ImportId"":""QID78""}","{""ImportId"":""QID79""}","{""ImportId"":""QID80""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID302_TEXT""}","{""ImportId"":""QID303_TEXT""}","{""ImportId"":""QID304""}","{""ImportId"":""QID304_6_TEXT""}","{""ImportId"":""QID305""}","{""ImportId"":""QID306_TEXT""}","{""ImportId"":""QID307""}","{""ImportId"":""QID308""}","{""ImportId"":""QID309""}","{""ImportId"":""QID309_6_TEXT""}","{""ImportId"":""QID310""}","{""ImportId"":""QID311_TEXT""}","{""ImportId"":""QID312""}"
+5/10/17 13:11,5/10/17 13:33,0,71.169.25.179,100,1357,1,5/10/17 13:33,R_XOiSzcv8ixEh3ot,,,,,41.65679932,-73.98840332,anonymous,2_Y,1,1,1,1,1,3,3,3,3,2,3,2,3,3,3,1,3,3,3,2,3,3,2,1,3,1,1,3,1,2,2,2,4,4,4,3,3,3,2,3,3,2,3,2,3,4,3,4,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,4,1,1,4,2,2,5,2,2,1,2,1,5,1,1,1,1,1,30,0,0,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,3,1,4,1,1,1,1,1,1,1,5,5,1,1,1,1,2,1,1,1,1,2,,,,,,,,,,2,,,,,2,,,,1,"LITHIUM, 600 mg/day, 31 years",no change,Venus,62,1,,2,16,3,2,1,,1,0,6
+5/10/17 15:08,5/10/17 15:28,0,24.218.139.207,100,1229,1,5/10/17 15:28,R_31Wyj71qZGehIJU,,,,,41.30940247,-72.9240036,anonymous,333_Y,4,5,2,3,5,2,1,5,5,5,5,2,2,2,3,4,3,2,4,5,5,5,5,1,4,5,1,5,4,1,1,1,1,5,5,2,1,2,2,1,2,1,2,2,1,4,4,4,2,3,2,2,2,1,0,0,0,0,1,0,0,1,0,0,0,0,2,1,1,4,2,1,1,3,1,1,3,2,1,1,1,1,4,3,30,12,12,5,1,1,3,2,2,3,2,3,,,,,,,,,,,,,,3,1,1,3,2,2,1,2,2,1,1,2,1,1,3,2,3,1,1,2,1,2,,,,,,,,,,2,,,,,2,2,3,2,4,none,none,Venus,25,6,mixed race,1,16,1,3,4,,2,0,6
+5/10/17 15:32,5/10/17 15:46,0,76.119.200.136,100,877,1,5/10/17 15:47,R_SDHVyFtPjC0Bt29,,,,,41.76829529,-70.60070038,anonymous,128_Y,4,5,1,1,3,2,2,5,5,3,5,2,4,1,2,2,3,1,4,5,5,4,1,1,4,1,1,4,5,2,1,2,2,4,5,4,2,2,1,1,3,1,4,2,1,5,4,5,1,0,1,0,2,1,1,2,1,0,1,0,0,1,0,0,1,0,2,3,1,2,2,1,1,1,1,1,4,2,1,1,1,3,1,3,5,3,20,1,1,1,1,1,2,1,2,4,,,,,,,,,,,,,,4,4,1,2,1,1,2,4,4,1,5,2,1,2,5,1,1,2,1,2,1,2,,,,,,,,,,2,,,,,2,,,,1,"Lithium, 600mg twice daily, 7 weeks",none,Venus,27,1,,1,12,3,1,5,,1,0,4
+5/10/17 16:14,5/10/17 16:27,0,201.206.39.98,100,793,1,5/10/17 16:27,R_2V1Nt5PlzKsInii,,,,,9.853302002,-83.90229797,anonymous,151_Y,3,2,2,4,4,2,3,4,4,3,3,1,4,2,4,2,2,2,4,4,4,3,3,1,2,3,2,2,1,4,1,3,4,4,3,3,2,4,3,2,4,1,4,2,4,3,4,5,2,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,2,2,2,5,,,,,,2,2,1,1,2,5,,,,,,,,3,2,1,3,1,1,1,2,2,2,,,1,1,1,1,4,1,1,1,1,1,1,3,1,1,2,2,2,1,2,1,2,1,2,1,1,1,2,1,1,No medication,No medication,Venus,36,1,,2,16,6,3,3,,4,2,2
+5/10/17 18:13,5/10/17 18:34,0,73.81.104.105,100,1229,1,5/10/17 18:34,R_2frJwL6zyVzVv1Q,,,,,40.13250732,-75.33239746,anonymous,165_Y,5,5,4,1,4,3,2,2,5,3,4,1,3,1,3,4,1,1,4,4,2,3,4,1,3,5,1,2,3,2,1,2,3,3,4,4,4,3,3,2,3,2,3,2,4,3,4,5,2,0,1,0,0,1,0,1,1,1,1,0,0,1,0,1,2,1,2,3,1,2,2,4,4,4,3,3,2,1,3,1,1,1,2,2,4,3,4,5,1,2,5,,,,,,3,2,2,2,1,5,,,,,,,,2,2,3,1,3,3,4,5,3,1,5,3,1,2,4,4,2,4,3,4,5,2,,,,,,,,,,2,,,,,1,1,1,5,5,I am not currently taking any medication. ,I am nor currently taking any medication. ,Venus,36,1,,2,18=Some graduate school,3,3,1,,5,0,8
+5/11/17 22:08,5/11/17 22:36,0,107.2.138.147,100,1625,1,5/11/17 22:36,R_d3WpyvStZqIUoPn,,,,,40.04960632,-105.2769012,anonymous,171_B,5,4,2,3,2,5,2,4,4,4,4,1,2,2,2,2,5,1,2,3,5,5,4,3,3,4,2,4,4,2,1,2,3,3,3,4,1,2,2,3,4,1,2,2,3,5,3,5,1,1,1,1,1,0,1,0,1,3,1,1,1,0,1,0,1,0,3,2,1,3,3,2,2,2,2,2,3,1,1,2,1,3,1,2,30,2,8,3,2,2,5,,,,,,,,,,,,1,1,1,1,1,1,1,3,3,1,4,1,1,2,2,2,1,5,4,1,1,4,2,2,2,1,3,2,2,,,,,,,,,,2,,,,,2,,,,3,"Lamictal, 100 mg, 2 months
+Xanax, 0.5 mg, 2 times daily, 2 months
+Haldol, 1.5 mg, 2 months","Flonase, 100 mcg, 1 month
+Ibuprofen, 400 mg, 1 month",Venus,31,1,,1,"20, two bachelors degrees",2,4,4,,1,0,4
+5/12/17 11:04,5/12/17 11:15,0,67.249.120.142,100,687,1,5/12/17 11:15,R_1l03TMGdaE9mDhV,,,,,43.02999878,-76.12419891,anonymous,175_Y,4,4,4,2,4,5,1,4,4,5,2,2,1,1,2,4,5,2,1,3,4,5,4,4,2,4,4,2,4,2,2,1,3,2,2,4,2,1,2,4,4,1,4,2,3,4,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,2,2,2,1,2,1,2,1,2,2,1,1,2,1,1,4,0,0,1,1,1,1,1,1,1,2,1,,,,,,,,,,,,,,3,2,3,1,1,1,4,2,2,1,5,1,1,2,2,1,3,1,1,1,1,2,,,,,,,,,,2,,,,,2,,,,1,"No change, only taking Zoloft.",No problems.,Venus,28,1,,1,18,2,2,4,,1,0,9
+5/12/17 12:41,5/12/17 12:59,0,173.162.202.125,100,1032,1,5/12/17 12:59,R_3lKYFY43plUhDnb,,,,,42.10639954,-72.59069824,anonymous,130_Y,3,4,1,2,3,3,2,5,4,2,5,2,4,3,3,1,2,2,4,4,5,3,2,1,3,4,2,4,4,2,2,4,3,5,4,5,3,1,3,2,3,2,4,1,4,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,5,,,,,,,,,,,,,,3,2,1,2,1,1,2,1,2,1,5,4,2,,,,,,,1,2,2,1,,,,,,,,,2,,,,,1,6,1,1,1,No change,No change,Venus,52,1,,2,15,3,1,1,,5,0,7
+5/12/17 17:01,5/12/17 17:30,0,73.38.79.38,100,1730,1,5/12/17 17:30,R_ONeFjGcYxEq50DD,,,,,41.69030762,-72.79070282,anonymous,135_Y,2,4,1,4,3,3,4,5,5,5,4,2,2,3,5,3,3,1,1,4,4,3,3,3,2,2,3,2,2,4,1,2,3,3,2,5,1,3,3,1,4,1,4,1,4,4,4,5,0,0,0,0,0,3,3,3,2,3,3,1,2,3,1,2,3,2,2,3,3,1,1,4,3,3,3,3,3,2,2,1,1,3,2,4,20,8,30,3,2,1,2,3,5,1,3,3,5,4,4,1,3,4,3,5,5,5,3,4,4,5,1,3,4,3,3,4,3,3,2,,,1,1,4,4,2,1,1,2,1,2,,,,,,,,,,2,,,,,2,,,,1,"ZOLOFT, 100 mg, ?
+WELLBUTRIN, 150 mg, ?",N/A,Venus,26,1,,2,17,1,2,4,,2,0,4
+5/14/17 10:15,5/14/17 10:29,0,65.128.112.214,100,851,1,5/14/17 10:29,R_p0LSoLusD1THXMd,,,,,39.3276062,-104.8162994,anonymous,88_B,5,5,1,1,5,1,1,5,5,5,5,4,5,4,1,1,1,1,5,5,5,5,5,1,5,5,1,5,1,5,1,5,2,5,3,1,1,1,1,1,1,1,5,1,5,3,5,5,2,2,0,3,2,0,0,1,1,0,1,0,0,0,1,2,1,0,4,1,1,4,4,1,1,2,2,1,2,4,1,2,1,1,1,3,15,7,8,5,2,2,5,,,,,,1,2,2,1,2,5,,,,,,,,1,1,5,1,1,2,1,3,5,2,,,1,1,2,1,5,1,1,5,1,2,,,,,,,,,,2,,,,,2,,,,5,"Lithium - 900mg - 4mo
+
+Latuda - 120mg - 9mo",None,Venus,24,1,,2,16,1,3,4,,2,0,10
+5/14/17 13:03,5/14/17 13:16,0,24.34.96.229,100,771,1,5/14/17 13:16,R_1Hjgrf4X6a4BbAZ,,,,,42.17329407,-72.77149963,anonymous,201_Y,3,5,1,3,5,1,1,5,5,5,5,1,5,4,2,4,2,2,5,5,5,5,5,1,5,5,1,5,5,2,1,3,2,5,3,4,1,1,2,1,4,1,2,1,3,4,5,5,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,4,1,1,3,4,1,1,1,2,1,2,1,1,1,1,1,1,1,4-Feb,0,0,1,1,1,2,1,2,2,1,5,,,,,,,,,,,,,,3,2,2,2,1,1,1,2,3,2,,,1,1,2,1,2,1,1,1,1,1,2,4,2,1,1,3,5,6,5,2,,,,,1,1,2,3,3,Not available,Not available,Venus,25,1,,2,13,4,1,2,,2,0,7
+5/16/17 23:50,5/17/17 0:09,0,172.58.62.241,100,1135,1,5/17/17 0:09,R_2arwbtgJIcBT4JN,,,,,39.73919678,-104.9847031,anonymous,191_B,5,4,2,4,4,3,3,4,5,4,5,2,3,4,4,2,4,2,3,3,4,4,2,3,3,2,3,4,4,2,4,1,2,3,4,4,2,2,1,2,3,3,2,2,2,4,5,2,1,1,0,0,0,1,1,2,2,3,2,0,1,2,3,2,3,1,2,4,2,2,2,3,2,4,4,5,4,3,3,4,4,4,4,4,30,9,20,5,2,2,5,,,,,,,,,,,,,,,,,,,3,2,4,3,2,3,4,4,4,1,5,5,2,,,,,,,1,5,2,,,,,,,,,,2,,,,,1,4,4,2,4,None,None,Venus,28,1,,2,16,1,3,4,,2,0,7
+5/22/17 10:19,5/22/17 10:30,0,98.216.74.88,100,639,1,5/22/17 10:30,R_2dR7lj8g6y8RBT3,,,,,42.09809875,-72.57740021,anonymous,55_Y,2,1,2,1,2,1,2,2,1,2,1,2,1,2,2,1,2,1,2,1,2,2,1,2,1,2,1,2,2,1,3,2,2,3,2,2,3,1,3,2,2,1,2,1,3,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,1,2,2,2,1,2,2,1,2,1,2,1,2,1,7,7,7,1,2,2,6,,,,,,1,2,1,1,1,4,,,,,,,,4,3,4,1,2,1,1,1,1,1,5,5,2,,,,,,,1,1,2,,,,,,,,,,2,,,,,2,,,,1,"lithium 900mg
+wellbutrin 150mg",none,venus,36,1,,1,14,2,2,1,,1,0,6
+5/23/17 8:59,5/23/17 9:27,0,71.192.234.115,100,1670,1,5/23/17 9:27,R_3PXGzBLF8Jm5dD1,,,,,42.22380066,-72.64089966,anonymous, 324_Y,4,5,3,2,4,2,1,1,5,5,4,1,3,1,3,5,5,1,5,5,3,5,5,2,2,5,1,3,4,3,1,2,1,5,5,4,1,1,1,1,4,1,3,1,1,5,5,5,1,1,0,0,2,1,1,1,1,1,1,0,0,2,3,2,2,0,4,1,2,3,2,3,4,4,1,4,5,3,3,1,1,1,1,4,30,2,28,3,2,2,5,,,,,,1,3,4,1,3,4,2,1,4,5,1,5,1,1,1,3,4,1,1,2,1,1,2,,,1,1,3,3,4,1,1,5,2,1,2,3,2,1,4,1,5,6,5,2,,,,,1,5,1,5,5,no changes,No changes,Venus,45,1,,2,16,1,4,2,,3,0,9
+5/23/17 12:58,5/23/17 13:12,0,71.233.153.213,100,849,1,5/23/17 13:12,R_9GoanDiGdpDMXXb,,,,,41.30940247,-72.9240036,anonymous,154,5,5,2,2,5,1,2,3,5,2,4,1,2,5,3,5,2,1,4,5,2,5,3,1,3,5,1,3,5,2,2,3,3,5,5,5,2,3,3,3,4,1,4,1,3,5,5,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,1,1,2,3,2,4,4,1,2,2,2,5,3,2,1,2,1,4 days,2-3 times,7-8 days,1,1,1,1,1,1,1,1,2,,,,,,,,,,,,,,3,4,5,3,1,1,1,2,1,2,5,5,1,1,2,3,2,1,2,3,2,1,4,1,1,2,3,2,4,1,2,2,,,,,1,2,4,2,2,N/A,N/A,Venus,341,6,Human,1,16,4,2,2,,4,0,6
+5/23/17 18:00,5/23/17 18:19,0,24.177.84.219,100,1152,1,5/23/17 18:19,R_1FG8rcgYrl05TqY,,,,,41.94810486,-73.09449768,anonymous,7_y,4,2,2,2,3,4,2,4,4,3,4,2,3,2,3,2,2,4,,4,4,4,2,2,4,3,2,4,2,2,2,2,2,4,5,5,2,2,3,2,4,2,3,2,2,4,4,4,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,2,2,1,2,2,1,1,3,1,1,1,1,1,2,1,3,1,1,1,1,1,2,1,1,1,1,1,4,2,3,1,,,,,,,,,,3,2,3,3,1,2,1,2,2,1,4,4,1,1,1,2,3,1,2,2,1,2,,,,,,,,,,1,1,2,1,1,1,2,2,1,2,"Lithium er 300 mg am/600 pm
+Effexor 75 mg xr am
+Synthroid 50mcg am",N/A,"Winsted, CT",3o,1,,2,1i,3,1,6,With parents and daughter,5,1,3
+5/24/17 5:38,5/24/17 5:58,0,75.67.232.78,100,1204,1,5/24/17 5:58,R_1KP8ZSuxdoIkp4l,,,,,42.74099731,-71.31610107,anonymous,248_Y,2,4,1,3,2,4,2,5,4,,5,4,3,2,2,4,3,4,5,3,5,4,4,1,4,4,1,4,4,2,1,5,1,4,5,4,5,2,1,1,5,1,2,1,1,5,5,5,3,1,0,0,3,0,0,0,0,0,0,0,1,0,1,1,1,0,4,1,1,3,4,1,1,1,1,1,2,1,2,1,1,1,1,1,30,0,30,4,2,2,1,1,1,2,2,1,1,1,1,2,1,1,,,,,,,,3,2,2,3,2,2,1,1,1,1,5,5,1,1,2,1,2,1,1,1,1,2,1,3,3,2,2,1,5,6,2,2,,,,,1,2,2,2,2,Daily - 3 x 300 mg trilepal (dose down),137 mcg synthroid (thyroid),venus,62,1,,2,18,3,5,1,,5,2,8
+5/24/17 9:12,5/24/17 9:26,0,98.118.123.19,100,838,1,5/24/17 9:26,R_2OVJJLbwlSJdDow,,,,,42.42469788,-71.11119843,anonymous,245_Y,3,4,5,4,4,4,2,2,5,5,4,1,2,1,4,3,4,1,2,4,2,4,4,3,2,3,3,2,5,4,5,3,5,2,1,1,5,5,5,5,1,4,3,5,5,1,1,1,0,0,1,0,1,2,0,0,1,1,1,0,1,1,1,1,1,1,3,2,1,2,2,2,2,2,1,3,3,2,1,1,2,3,2,2,15,2,13,1,1,1,2,2,2,1,3,2,,,,,,,,,,,,,,2,2,1,2,1,2,2,4,3,1,2,2,1,2,3,2,3,2,2,3,3,2,,,,,,,,,,2,,,,,1,2,3,5,1,"Lamictal 250 mg, 11 months.",None,Venus,25,1,,2,16,3,1,4,,2,0,6
+5/24/17 18:39,5/24/17 19:04,0,50.0.117.146,100,1532,1,5/24/17 19:04,R_pLrVI638xdsRa5X,,,,,37.77490234,-122.4194031,anonymous,386_Y,5,3,1,2,5,2,1,5,4,4,5,1,5,2,3,5,2,2,5,4,5,3,5,1,4,5,1,2,4,1,1,3,2,5,4,5,1,1,2,1,4,,5,1,3,4,4,5,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,1,4,4,1,1,1,1,1,2,1,1,1,3,2,1,2,10,0,5,1,1,1,2,1,1,2,1,2,,,,,,,,,,,,,,1,1,1,1,2,1,2,1,1,2,,,1,1,1,1,2,1,3,1,1,1,2,1,2,1,2,1,2,1,1,2,,,,,1,1,1,1,1,"lamictal 150 mg daily 6 years, ativan .5 mg as needed 6 years, acupuncture for 1 year","ventolin as needed for 5 years, lybrel/amethyst 2 weeks 90mcg/daily",Venus,26,"1,2,5",,2,16,6,1,2,,3,0,3
+6/1/17 21:27,6/1/17 21:49,0,24.47.154.166,100,1312,1,6/1/17 21:49,R_2wdkm3LwDr5QZVu,,,,,40.90640259,-74.665802,anonymous,263_Y,3,3,3,1,3,4,1,4,3,4,5,1,2,1,1,1,4,1,3,5,4,4,4,3,4,3,2,4,3,3,2,2,2,4,3,4,1,2,1,2,4,2,2,2,3,4,4,4,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,2,4,4,2,1,1,1,1,1,1,1,1,1,3,1,3,3,0,0,1,1,1,1,1,2,1,2,4,,,,,,,,,,,,,,2,2,1,1,1,1,2,1,1,1,5,4,1,1,2,1,4,2,2,1,2,2,,,,,,,,,,2,,,,,2,3,1,,1,none,none,Venus,37,1,,2,16,2,1,1,,1,0,5
+6/4/17 19:37,6/4/17 19:51,0,140.180.240.190,100,856,1,6/4/17 19:51,R_3isOn3Sh6pMJupI,,,,,40.37559509,-74.65969849,anonymous,223_Y,2,4,2,3,4,2,3,4,4,1,4,2,4,2,2,2,2,2,4,4,4,2,3,1,4,3,2,4,2,4,1,2,4,4,3,3,2,2,3,2,3,2,4,2,4,3,4,4,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,3,3,2,1,2,1,1,1,1,1,1,1,2,1,1,3,0,0,3,2,1,4,1,1,1,1,2,2,1,1,1,1,3,1,1,1,1,1,1,2,1,2,1,2,1,1,2,1,1,2,2,1,1,1,2,1,2,1,2,2,1,1,2,1,3,1,2,2,2,1,2,2,,,,,1,2,2,1,1,no medications,no medications,venus,27,1,,2,18,5,4,2,,4,0,3
+6/14/17 18:28,6/14/17 19:05,0,65.96.75.90,100,2210,1,6/14/17 19:05,R_2D6JOb8RWK33uJO,,,,,41.30940247,-72.9240036,anonymous,37_Y,3,5,2,3,1,5,4,4,4,1,5,5,2,1,4,4,2,1,3,3,4,3,3,3,3,3,3,3,5,3,1,3,5,,5,5,3,5,3,1,4,5,5,1,2,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,4,1,1,1,5,1,1,1,1,1,1,1,4,1,0,0,0,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,1,1,1,1,2,2,1,1,2,1,2,2,1,1,4,1,1,2,1,1,1,2,,,,,,,,,,2,,,,,2,,,,1,nonne,None,Venus,44,2,,2,18,4,1,1,,1,0,3
+6/14/17 21:58,6/14/17 22:37,0,24.218.137.110,100,2382,1,6/14/17 22:37,R_3qwf8P8fAfk0ZwP,,,,,41.30940247,-72.9240036,anonymous,207_Y,1,1,1,2,1,3,5,5,3,3,3,5,5,5,4,1,5,3,5,1,5,5,1,1,2,1,1,3,3,3,3,5,3,5,3,3,3,1,5,5,4,1,3,3,3,3,5,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,2,2,1,2,1,1,1,1,1,1,1,1,1,1,5,0,0,1,2,1,6,,1,2,3,4,2,1,1,2,2,3,,,,,,,,1,4,1,2,1,1,2,3,2,2,,,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,2,2,1,1,2,,,,,1,2,1,1,5,not taking any meds to treat mental health,not taking any meds to treat any physical problems,venus,34,1,,2,15,1,2,2,,4,3,6
+6/14/17 22:15,6/14/17 22:38,0,192.222.11.93,100,1394,1,6/14/17 22:38,R_wZtabJP27FyJBi9,,,,,41.78900146,-71.85520172,anonymous,249_Y,3,2,1,3,1,4,3,5,4,4,4,4,2,3,2,3,4,1,4,3,5,3,3,1,4,3,1,4,2,2,1,3,3,3,4,4,2,3,2,2,3,2,2,2,3,4,5,3,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,4,1,1,4,4,1,1,1,1,1,2,1,1,1,1,2,1,2,15-Oct,2,10,1,1,1,2,2,1,1,3,4,,,,,,,,,,,,,,3,2,2,3,1,2,2,1,1,2,,,1,1,4,3,2,1,1,1,1,2,1,1,2,1,3,1,2,2,1,2,,,,,2,6,,,2,none,"Pneumonia
+Benzonatate 100mg 1 week
+Azithromycin 250mg 1 week",Venus,30,1,,1,18,3,1,4,,2,0,7
+6/15/17 7:51,6/15/17 8:12,0,64.251.54.130,100,1252,1,6/15/17 8:12,R_2wSUBs7BHKSLRsC,,,,,41.79110718,-72.25340271,anonymous,269_Y,3,4,1,3,2,1,4,5,5,1,5,3,5,3,3,1,1,1,5,3,4,3,1,1,3,3,1,4,4,3,2,5,3,5,3,5,4,2,4,1,4,1,4,1,3,3,5,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,1,1,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,2,,,,,,,,,,,,,,3,1,1,3,1,1,1,1,1,2,,,1,2,2,2,1,1,1,1,4,1,1,1,1,1,2,1,4,1,1,2,,,,,1,1,1,1,2,N/A,N/A,Venus,38,1,,1,19,5,1,3,,4,2,7
+6/15/17 12:53,6/15/17 13:03,0,130.132.173.120,100,620,1,6/15/17 13:03,R_efaM91VhTFBgoJr,,,,,41.30940247,-72.9240036,anonymous,332_Y,4,5,1,1,4,5,1,5,5,4,5,2,2,1,1,3,5,1,3,5,5,4,4,2,5,5,2,5,5,1,1,1,2,5,5,5,1,1,1,1,5,1,1,1,2,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,2,1,1,1,2,4,,,,,,,,,,,,,,3,2,2,2,1,1,2,2,2,2,,,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,,,,,1,2,1,1,1,"Trazadone, 50mg, 2 weeks","Clavaris; 40mg, 8 months ",Venus ,28,1,,2,16,6,1,2,,4,0,4
+6/15/17 14:46,6/15/17 15:20,0,92.239.30.46,100,1992,1,6/15/17 15:20,R_2fdNwLLcxSL8ijN,,,,,55.86599731,-3.980300903,anonymous,33_Y,3,1,3,5,2,1,4,3,3,2,2,4,5,5,4,2,2,4,5,2,3,3,2,1,2,2,1,2,4,2,5,4,1,4,3,4,1,1,3,1,4,1,5,1,2,4,5,5,0,0,0,0,0,1,1,0,1,0,1,0,1,2,2,2,2,1,2,1,2,1,1,1,2,4,2,2,4,2,3,1,1,1,2,3,30,1,29,1,1,1,1,2,2,3,3,3,,,,,,,,,,,,,,3,2,2,4,2,2,2,2,1,2,,,1,2,1,1,2,1,1,2,2,1,3,3,2,2,1,3,4,1,3,2,,,,,1,2,2,3,1,"Seroquel- 50mg SID  2 years
+Diazepam- 2mg as needed","Liothyrine- 40mcg SID  1 month- increased from 30mcg (on for many years)
+Fexofenadine- 180mg SID  2 years
+Folate- 5mg SID- 6w (Dr. Prescribed as very low blood levels)
+B12- 6w (Dr. Prescribed as low blood levels)
+Vit D- (Dr. Prescribed as low blood levels)",Venus,32,1,,2,20,5,1,2,,4,0,4
+6/15/17 15:43,6/15/17 15:51,0,199.255.55.9,100,530,1,6/15/17 15:51,R_3fkQv3NTKrdrUSq,,,,,42.53239441,-70.97360229,anonymous,69_Y,3,4,2,2,5,2,2,3,4,4,4,2,3,2,4,4,3,2,4,4,4,4,3,2,2,2,2,3,3,2,2,1,2,4,4,4,3,3,1,1,4,2,4,1,2,4,3,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,3,1,1,3,3,2,2,2,2,2,2,2,1,1,1,1,1,1,0,0,0,1,1,1,1,1,2,2,2,2,,,,,,,,,,,,,,3,2,1,3,2,2,2,2,2,2,,,1,1,2,2,2,1,1,1,1,2,,,,,,,,,,2,,,,,2,,,,2,none,none,Venus,34,1,,2,20,4,1,1,,2,0,3
+6/15/17 16:09,6/15/17 16:27,0,108.183.35.156,100,1071,1,6/15/17 16:27,R_11iRM5jDnWJgbDI,,,,,42.05090332,-75.88909912,anonymous,116_Y,1,4,3,3,3,2,4,3,5,4,3,4,4,1,4,1,2,1,5,5,4,5,1,1,1,1,1,2,3,3,1,2,2,5,4,4,1,1,3,2,4,1,4,1,2,5,5,5,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,1,0,4,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,3,1,1,1,2,1,1,2,2,,,,,,,1,6,2,1,1,1,3,4,2,5,2,1,1,2,2,2,2,,,1,1,5,4,1,1,1,1,2,1,2,1,1,1,3,2,2,1,1,2,,,,,1,1,1,1,1,N/A,"loratadine, 10 mg, 1 month",Venus,30,1,,2,17,2,2,2,,3,0,4
+6/15/17 21:06,6/15/17 21:21,0,45.36.251.81,100,853,1,6/15/17 21:21,R_3qeVbWgHg3lIg6I,,,,,36.00740051,-79.87319946,anonymous,214_Y,3,3,1,3,4,2,3,4,3,2,4,2,2,2,2,2,2,2,4,3,4,3,4,1,4,3,2,4,4,2,1,1,2,5,3,4,1,1,2,2,4,1,4,1,3,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,2,1,3,3,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,3,1,1,1,2,2,2,2,1,,,,,,,1,1,1,1,1,1,1,1,2,2,2,1,3,1,1,1,2,,,1,2,2,1,2,1,1,1,1,1,1,1,1,1,2,1,2,1,1,2,,,,,1,1,1,1,2,none,"Flovent 110mg  2 puffs per day, 15 months
+Albuterol as needed for exercise induced asthma
+Allegra and Flonase for allergies ",Venus,28,1,,2,20,2,1,2,,3,0,5
+6/16/17 12:13,6/16/17 12:28,0,72.192.7.204,100,861,1,6/16/17 12:28,R_24dAuAmUruLjDEH,,,,,41.50759888,-71.71620178,anonymous,196_Y,4,2,3,3,4,1,1,4,4,4,3,3,4,2,4,4,3,2,5,3,5,2,5,1,3,4,1,2,2,4,1,2,4,4,1,3,2,2,3,3,2,1,4,1,3,5,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,none,none,none,1,1,1,1,1,1,1,1,2,2,1,1,1,1,2,,,,,,,,3,1,4,2,1,1,1,1,2,1,4,1,1,1,1,1,2,1,1,1,1,2,,,,,,,,,,2,,,,,1,1,1,1,1,No medications at all.,No medications,Venus,49,1,,2,14,3,1,1,,5,0,4
+6/17/17 7:34,6/17/17 7:51,0,32.212.2.22,100,980,1,6/17/17 7:51,R_24BnZ0vQJqgPDEA,,,,,41.66659546,-72.76959991,anonymous,359_Y,4,4,1,1,3,1,1,5,4,1,5,1,3,2,3,4,1,2,5,5,5,5,5,1,5,5,1,5,3,3,1,2,3,5,5,4,1,2,2,1,2,1,5,1,4,4,5,5,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,4,1,1,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,1,1,1,1,1,1,1,1,1,,,,,,,,1,,,,,,3,1,1,2,1,2,1,1,1,1,4,1,1,2,1,4,1,1,2,1,5,2,,,,,,,,,,2,,,,,2,,,,1,n/a,n/a,venus,28,5,,2,18,3,1,1,,1,0,4
+6/18/17 10:05,6/19/17 11:02,0,174.201.10.203,100,89856,1,6/19/17 11:02,R_XvvIjXD5PUh4yzv,,,,,40.05230713,-75.19049835,anonymous,115_Y,2,3,2,3,3,2,3,5,5,3,5,2,2,1,2,4,1,1,5,5,5,4,5,1,5,5,3,5,3,3,1,1,3,5,3,3,1,1,3,1,2,1,4,1,4,4,2,5,1,1,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0,1,3,2,1,3,3,2,1,1,1,2,1,1,1,1,1,1,1,1,3,0,0,3,1,1,1,,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,2,3,2,3,3,1,1,1,2,2,2,,,1,1,1,1,2,1,1,2,1,1,3,2,1,1,2,2,5,6,1,2,,,,,1,4,2,2,1,None,None,Venus,28,1,,1,16,1,4,2,,4,0,6
+6/19/17 12:06,6/19/17 12:30,0,107.3.35.53,100,1430,1,6/19/17 12:30,R_2teV7T1jCONe9FQ,,,,,41.78140259,-72.75440216,anonymous,183_Y,4,5,1,1,3,4,3,4,5,2,5,1,2,1,2,1,1,1,3,5,5,5,3,1,4,3,2,5,5,4,1,2,4,5,5,4,2,3,1,3,4,1,3,1,3,5,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,4,1,3,2,1,1,1,1,4,1,1,1,1,2,30,7,23,2,2,1,1,1,1,1,1,2,3,2,1,1,1,2,,,,,,,,3,1,2,3,1,1,1,1,1,2,,,1,2,1,1,4,1,1,1,1,1,2,2,3,2,2,1,2,1,1,1,2,2,3,1,1,2,1,1,1,N/A,"Frova use when migraine occurs
+ibuprofen 800mg 2 times a day (For back pain and menscious tear surgery) 
+liothyronine 5mcg once a day
+levothyroxine 112mcg once a day
+",Venus,37,1,,2,18,6,2,3,,4,2,3
+6/19/17 14:41,6/19/17 14:57,0,72.215.51.56,100,961,1,6/19/17 14:57,R_RERCC4SQxUObVe1,,,,,41.81950378,-71.41069794,anonymous,398_y,2,3,3,2,2,3,4,4,3,2,3,3,4,3,2,3,4,2,4,4,5,4,4,2,4,4,2,4,4,2,2,3,3,3,4,5,2,2,2,2,4,2,3,2,3,4,4,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,3,3,1,1,1,1,2,1,1,2,1,1,2,1,1,0,0,0,1,1,1,1,1,1,1,2,1,,,,,,,,,,,,,,4,2,4,1,1,1,1,2,2,1,5,3,2,,,,,,,1,3,2,,,,,,,,,,2,,,,,2,1,1,1,1,None,None,Rhode Island,49,1,,1,16,3,1,1,,1,0,5
+6/12/17 18:51,6/12/17 18:51,0,73.4.87.175,2,11,0,6/19/17 18:52,R_YY9vRVoMufBLyOR,,,,,,,anonymous,378_Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6/21/17 7:23,6/21/17 7:44,0,73.149.64.237,100,1240,1,6/21/17 7:44,R_3HAMaImhjgOauUz,,,,,42.22380066,-72.64089966,anonymous,222_Y,4,4,2,3,5,2,1,3,4,3,4,1,4,3,4,1,2,1,3,5,3,5,4,3,3,4,2,2,5,3,1,1,3,5,4,3,2,3,1,2,3,2,2,1,3,4,5,5,0,1,0,1,0,1,0,0,1,0,1,0,1,0,1,1,1,0,2,3,1,2,2,2,1,3,1,3,4,2,1,1,1,3,1,3,7,o,7,1,1,1,1,2,2,1,2,5,,,,,,,,,,,,,,3,2,4,4,2,2,2,1,2,2,,,1,1,1,1,2,1,1,1,1,1,3,2,3,1,1,3,2,1,3,2,,,,,1,1,2,2,3,"Lamictal, 350 mg, 12 years
+Buproprion, 400 mg, 12 years
+Serequal, 50 mg, 10 months",0,venus,30,1,,2,16,4,1,3,,4,1,8
+6/25/17 12:02,6/25/17 12:10,0,199.96.254.5,100,474,1,6/25/17 12:10,R_2zFTZgCctbMUWug,,,,,40.65519714,-75.38140106,anonymous,129_Y,3,5,1,1,4,2,1,5,5,3,5,1,1,1,2,3,3,1,3,5,5,5,4,2,4,4,2,4,5,1,1,2,2,4,5,5,1,1,1,1,5,1,2,1,1,5,5,5,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,4,1,1,3,3,1,1,1,1,1,2,2,1,1,1,1,2,1,2,0,0,1,1,1,1,,,,,,6,1,1,1,1,3,,,,,,,,3,2,1,3,1,1,2,2,3,1,3,1,1,1,1,1,1,1,1,1,1,2,,,,,,,,,,2,,,,,2,,,,1,none,none,Venus,27,"1,4",,2,16,6,1,4,,1,0,5
+7/3/17 8:07,7/3/17 8:18,0,47.19.146.161,100,661,1,7/3/17 8:18,R_3O8Lz8C4k0SuJTj,,,,,41.05900574,-74.145401,anonymous,80_Y,3,1,2,5,3,1,3,4,2,2,4,2,4,5,3,3,2,4,5,1,4,1,3,1,2,3,1,3,3,4,2,5,5,4,1,1,2,2,4,3,2,2,4,3,3,4,4,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,,1,2,1,2,,,,,,,,,,,,,,2,4,2,3,1,1,2,2,1,2,,,1,1,5,5,1,1,1,1,2,1,2,2,1,1,1,1,2,1,1,2,,,,,1,1,1,2,1,none,None ,Venus,33,1,,1,16,6,1,2,,4,0,3
+7/4/17 10:20,7/4/17 10:38,0,108.183.35.156,100,1094,1,7/4/17 10:38,R_3Jt7cwYbVl3f8pV,,,,,42.05090332,-75.88909912,anonymous,107_Y,3,4,1,1,2,4,3,4,4,4,3,3,2,2,3,3,4,1,2,3,3,4,2,1,3,2,1,3,3,3,2,3,3,4,3,4,2,2,3,2,4,2,3,2,3,4,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,2,2,1,1,4,1,2,1,1,1,5,,,,,,,,5,6,3,2,6,6,2,3,1,2,,,1,1,2,2,1,1,1,2,1,1,2,1,1,2,2,2,2,1,1,2,,,,,1,1,1,1,1,n/a,n/a,Venus,28,1,,1,18,2,2,2,,3,0,7
+7/5/17 7:56,7/5/17 8:11,0,207.144.216.175,100,910,1,7/5/17 8:11,R_3JK9cPy1FlMnToi,,,,,32.95799255,-80.46890259,anonymous,149_Y,4,2,2,2,3,3,4,3,3,4,4,2,5,3,2,2,3,2,5,3,3,3,2,2,3,2,2,2,4,4,1,2,3,4,3,2,3,2,4,3,4,2,4,2,3,4,4,4,0,0,0,0,0,3,1,3,1,3,2,1,1,1,1,1,1,3,2,4,4,2,1,4,1,2,1,2,3,2,1,2,2,1,3,2,10,1,4,1,1,1,2,2,1,1,3,1,,,,,,,,,,,,,,2,2,1,4,4,4,3,4,3,2,,,1,1,5,4,1,1,1,1,1,1,5,3,2,1,3,3,4,1,4,2,,,,,1,4,5,2,1,None,None,Venus,26,1,,2,15,4,1,6,With spouse and family member,4,0,5
+7/5/17 11:59,7/5/17 12:22,0,208.242.14.200,100,1435,1,7/5/17 12:22,R_2fjQgrWImn1hUEb,,,,,37.75100708,-97.8219986,anonymous,321_Y,4,5,2,1,4,1,3,4,4,2,5,4,2,1,3,2,1,1,4,4,4,4,3,1,3,3,1,4,4,3,1,3,3,4,3,4,4,4,4,4,2,4,4,2,4,4,4,4,0,3,0,1,2,1,1,0,1,0,0,0,1,1,1,0,1,0,3,2,2,3,2,2,3,2,3,3,2,1,3,1,1,2,2,2,20,2,5,1,1,1,2,1,1,2,2,1,,,,,,,,,,,,,,1,2,1,2,2,2,2,2,4,1,5,5,1,3,4,2,1,2,1,2,5,2,,,,,,,,,,1,1,1,2,1,1,2,2,1,1,I do not take any medicines for mental health related issues,I do not take any medicines for physical health related issues,Venus,48,1,,1,18,6,1,1,,6,1,2
+7/7/17 6:49,7/7/17 10:33,0,130.132.173.5,100,13402,1,7/7/17 10:33,R_3ES7ML1UekIU8QI,,,,,41.30940247,-72.9240036,anonymous,119_Y,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,1,3,1,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,1,4,3,1,4,3,2,1,2,3,4,1,1,1,2,1,10,5,30,1,1,1,6,1,1,1,1,5,,,,,,,,,,,,,,3,2,3,3,1,2,1,1,2,2,,,1,2,2,4,4,1,2,2,5,1,2,2,2,1,2,1,2,1,1,2,,,,,1,2,1,1,1,none,none,Venue,35,1,,2,16,6,1,2,,4,0,3
+7/11/17 18:04,7/11/17 18:23,0,128.138.225.209,100,1145,1,7/11/17 18:23,R_3NQznMV6ezRmRBw,,,,,40.01499939,-105.2705994,anonymous,47_B,4,2,5,2,3,2,4,2,4,2,1,3,4,4,3,2,2,3,4,2,3,2,2,1,1,1,1,1,4,3,1,2,3,4,2,4,2,2,3,3,4,2,3,2,3,4,3,4,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,0,2,3,2,1,2,2,2,2,1,2,4,2,2,2,2,2,2,3,30,5,25,1,1,1,2,4,2,1,2,2,,,,,,,3,6,,,,,,1,1,1,2,2,2,1,2,2,1,5,2,1,2,2,2,2,2,1,2,2,2,,,,,,,,,,2,,,,,2,6,1,1,3,"Prozac 40mg - 5mon
+OxyCodine or Tylonol as needed for pain",I broke my back and neck on 5/12. I am still recovering from that. ,Venus,27,1,,1,17,2,2,4,,1,0,5
+7/12/17 16:23,7/12/17 16:34,0,156.111.60.154,100,657,1,7/12/17 16:34,R_20SbVSZRue1YvMC,,,,,40.8309021,-73.90699768,anonymous,141_Y,1,2,3,1,3,1,1,4,4,1,4,3,4,2,2,4,1,2,5,3,4,4,5,1,3,4,1,3,3,5,1,3,3,3,1,1,3,3,5,2,3,2,5,1,5,4,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,,,,,,,,1,2,2,1,1,1,1,1,1,2,,,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,,,,,1,1,1,1,1,None,None,Venus,53,2,,1,16,5,1,2,,3,1,2
+7/12/17 17:15,7/12/17 17:41,0,69.123.113.143,100,1525,1,7/12/17 17:41,R_1ikChQWW3eVr9Ud,,,,,41.14120483,-73.26370239,anonymous,140_Y,5,5,3,3,5,4,1,4,5,4,4,1,3,3,2,5,5,1,4,5,4,5,4,1,4,5,3,4,5,1,1,1,1,5,5,5,1,3,1,1,5,1,3,1,1,5,5,5,2,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,4,2,1,1,1,1,2,1,1,1,1,1,1,1,4,2,2,5,2,2,6,,,,,,1,1,1,1,1,1,,,,,,,,2,2,1,1,1,1,1,1,2,1,3,1,1,1,1,1,2,1,1,2,2,1,1,1,1,1,1,2,1,1,2,2,,,,,1,1,1,1,1,NONE,NONE,Venus,34,1,,2,16,1,2,2,,2,0,5
+7/17/17 17:51,7/17/17 18:05,0,32.212.56.168,100,868,1,7/17/17 18:05,R_24CsdFdYTRJn9sr,,,,,41.30940247,-72.9240036,anonymous,374_Y,4,5,2,3,4,5,3,4,5,5,2,1,3,3,2,2,4,1,4,5,5,4,5,2,1,4,1,4,2,5,1,5,3,5,3,4,4,2,3,3,2,1,4,2,4,3,4,5,4,4,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,4,1,2,3,3,1,1,3,4,1,1,1,1,1,4,0,0,2,1,1,1,1,1,2,2,5,,,,,,,,,,,,,,3,2,1,2,1,1,2,1,3,1,5,5,1,2,1,1,5,1,1,1,1,2,,,,,,,,,,1,3,1,2,2,2,,,,1,nonr,none,Venus,29,1,,2,16,4,1,5,,1,1,6
+7/19/17 18:49,7/19/17 18:56,0,208.103.73.167,100,452,1,7/19/17 18:56,R_1f48Vw0xzP5vuGN,,,,,41.34519958,-72.1088028,anonymous,178_Y,4,4,2,3,5,2,2,3,5,5,4,4,4,4,4,4,3,2,4,4,4,3,3,1,2,4,2,1,3,3,3,2,3,5,4,5,2,2,2,2,5,1,2,2,3,4,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,2,2,3,2,1,3,1,1,1,1,1,2,1,1,3,1,1,3,0,0,1,1,2,6,1,1,1,1,1,6,1,1,1,1,1,,,,,,,,1,2,1,1,1,1,2,2,2,2,,,2,,,,,,,1,1,2,,,,,,,,,,2,,,,,2,,,,1,none,none,Venus,26,"1,2,3,5,6",mixed,2,16,3,1,5,,2,0,5
+7/21/17 15:16,7/21/17 15:47,0,130.132.173.111,100,1826,1,7/21/17 15:47,R_sHzfhRYA25zngYN,,,,,41.30940247,-72.9240036,anonymous,297_Y,1,3,1,3,1,1,5,5,3,1,2,5,4,5,3,1,1,3,5,4,5,3,1,1,2,2,1,4,3,5,1,3,5,5,3,4,3,1,4,5,4,1,3,1,5,4,5,5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,1,1,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,"None, no difficulties",None,None,1,1,1,1,1,1,1,1,2,,,,,,,,,,,,,,2,1,1,2,1,1,1,1,1,2,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,2,,,,,1,1,1,1,2,None,None,Venus,62,1,,2,14,6,1,2,,4,3,4
+7/25/17 9:06,7/25/17 9:35,0,71.218.12.166,100,1759,1,7/25/17 10:01,R_efiyEW1Tzr7Dpsd,,,,,39.66029358,-104.8438034,anonymous,21_B,4,5,2,2,3,1,2,4,5,1,4,3,5,2,4,3,1,1,5,4,4,4,4,1,3,3,1,3,4,3,1,2,2,4,4,4,2,1,2,1,3,2,4,2,3,4,5,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,4,1,1,3,3,1,1,3,1,1,3,1,1,1,1,1,1,1,5,0,2,1,1,1,1,1,1,1,1,1,,,,,,,,,,,,,,3,2,2,5,2,1,1,1,1,1,5,5,1,2,2,2,2,1,1,2,1,2,,,,,,,,,,2,,6,,,1,1,1,1,2,I do not take any medications.,I do not take any medications.,Venus,54,1,,2,20+,2,1,1,,1,0,5
+7/28/17 17:31,7/28/17 18:03,0,73.95.137.26,100,1935,1,7/28/17 18:03,R_1litXWwPPPEoic3,,,,,39.8157959,-105.0128021,anonymous,1_B,3,5,2,2,4,3,2,3,4,4,3,2,3,2,2,3,3,2,3,4,4,3,4,2,3,3,1,3,4,3,2,4,3,4,4,4,2,4,1,2,4,2,3,2,3,4,4,4,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,1,1,2,3,2,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,5,2,2,5,,,,,,1,1,2,1,2,3,,,,,,,,3,3,1,1,1,1,2,2,2,1,5,3,1,2,4,1,3,2,1,3,4,2,,,,,,,,,,2,2,2,2,2,1,2,2,2,1,None,None,Venus,44,4,,2,18,3,3,6,"With 2 children, half time",5,2,6
