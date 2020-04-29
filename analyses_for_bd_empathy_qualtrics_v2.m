@@ -1,5 +1,5 @@
 clear all; close all
-basedir = '~/Dropbox/Empathy BD/data/';
+basedir = '~/Repositories/Ashar_Gruber_Empathy_BD';
 
 load(fullfile(basedir, 'project_workspace.mat'))
 
@@ -92,6 +92,11 @@ nodata = (cellfun(@isempty,tabl.movie1_valence_vector)) & (cellfun(@isempty,tabl
 
 fprintf('Removing %d participants who have no task data (did not do the study)\n', sum(nodata));
 tabl(nodata,:) = [];
+
+%% remove one ineligible P, ID = 201 (see email from June 4/23/2020)
+
+todrop = find(~cellfun(@isempty, strfind(tabl.ID, '201')));
+tabl(todrop,:) = [];
 
 %% Load survey data
 surv = readtable(fullfile(basedir, 'Additional+Measures+for+Empathic+Emotion+Continuous+Rating+Task+-++Survey+C%2C+Part+2+Final_February+19%2C+2018_10.39.csv'));
@@ -395,7 +400,7 @@ X(:,2) = X(:,1) .^ 2;
 X = repmat({X}, size(subjdat));
 
 % choose which emo. find each P's mean timecourse for that emo across bios.
-emo='tender';
+emo='happy'%'tender';
 Y = cellfun( (@(s) s.(emo)), subjdat, 'UniformOutput',0);
 Y = cellfun( @nanmean, Y, 'UniformOutput',0);
 Y = cellfun( @transpose, Y, 'UniformOutput',0);
@@ -406,6 +411,9 @@ seclev_grop(seclev_grop==1)=-1;
 seclev_grop(seclev_grop==2)=1;
 
 fprintf('------------- %s -------------\n', emo);
+glmfit_multilevel(Y, X, seclev_grop, 'noplots', 'names', {'Intcpt', 'linear', 'quad'});
+
+% to look at BDI-SF as moderator
 glmfit_multilevel(Y, X, tabl.BDISFtot, 'noplots', 'names', {'Intcpt', 'linear', 'quad'});
 
 
