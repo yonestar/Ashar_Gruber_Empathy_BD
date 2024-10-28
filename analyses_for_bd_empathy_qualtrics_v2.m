@@ -6,7 +6,7 @@ load(fullfile(basedir, 'project_workspace.mat'))
 % patients are group 1; healthies are group 2
 
 %% IF LOADED IN DATA IN ABOVE CELL, AND DON'T NEED TO MAKE CHANGES TO DATA, 
-%  CAN SKIP TO LINE 274
+%  CAN SKIP TO LINE 284
 
 %%
 
